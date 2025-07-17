@@ -44,6 +44,7 @@ The main code handles:
 - Successfully detected approaching vehicles
 - Actuated gate smoothly via servo motors
 - Displayed accurate status on LCD
+<img width="677" height="423" alt="results" src="https://github.com/user-attachments/assets/a32eb610-c2af-4237-b840-847464d87f39" />
 
 ## ✅ Conclusion
 
