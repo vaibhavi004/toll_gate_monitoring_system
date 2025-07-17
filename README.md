@@ -37,7 +37,7 @@ The main code handles:
 - LCD control routines for displaying messages
 - Main loop with continuous distance checking and decision-making
 
-> The full code is available in [`main.c`](./main.c)
+> The full code is available in [`code_main.docx`](./code_main.docx)
 
 ## 📸 Results
 
